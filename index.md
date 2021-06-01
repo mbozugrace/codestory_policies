@@ -17,3 +17,5 @@ Please read these Terms and Conditions ("Terms", "Terms and Conditions") careful
 Our service allows you to create an online personal money manager that helps you track your funds and allocate them to serve your daily needs. 
  ### CHANGES
  We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 (change this) days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+ 
+ [Privacy Policy](https://github.com/mbozugrace/codestory_policies/blob/502c667fb6aaa23bad91f76a4632dd63d79013e8/policy.md)
