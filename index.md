@@ -1,39 +1,19 @@
-## Welcome to GitHub Pages
+## TERMS AND CONDITIONS
 
-[Terms and Conditions](https://github.com/mbozugrace/codestory_policies/raw/main/terms.html)
+### Terms and Conditions 
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the  
+  Money Pro Skill operated by CodeStory ("us", "we", or "our"). Your access to and use of the Service is 
+  conditioned on your acceptance of and compliance with these Terms.
+  These Terms apply to all visitors,users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms. 
+    If you disagree with any part of the terms then you may not access the Service.
+    Purchases If you wish to purchase any product or service made available through the Service ("Purchase"), 
+  you may be asked to supply certain information relevant to your Purchase including, without limitation, your … 
 
-You can use the [editor on GitHub](https://github.com/mbozugrace/codestory_policies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbozugrace/codestory_policies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   The Purchases section is for businesses that sell online (physical or digital). For the full disclosure section, 
+  create your own Terms and Conditions. Subscriptions Some parts of the Service are billed on a subscription basis 
+  ("Subscription(s)"). You will be billed in advance on a recurring ...
+   
+ ### CONTENT
+Our service allows you to create an online personal money manager that helps you track your funds and allocate them to serve your daily needs. 
+ ### CHANGES
+ We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 (change this) days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
