@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Terms and Conditions](https://mbozugrace.github.io/codestory_policies/terms.html)
+[Terms and Conditions](terms.html)
 
 You can use the [editor on GitHub](https://github.com/mbozugrace/codestory_policies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
